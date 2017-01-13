@@ -1,0 +1,19 @@
+{
+    "name": "test-routy",
+    "version": "1.0.0",
+    "description": "Test routy.js",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rgierczak/test-routy.git"
+    },
+    "author": "Rafał Gierczak",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/rgierczak/test-routy/issues"
+    },
+    "homepage": "https://github.com/rgierczak/test-routy#readme"
+}

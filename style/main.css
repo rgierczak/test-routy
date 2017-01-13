@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    margin: 10px;
+    padding: 10px;
+    color: #000000;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    border: solid 1px #000000;
+}
+
+section {
+    margin: 10px;
+    font-size: 15px;
+}
