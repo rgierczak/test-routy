@@ -10,11 +10,11 @@
             let router = new Router();
             
             router
-                .add('/', { template: '<h1>home</h1>' })
+                .add('/home', { template: '<h1>home</h1>' })
                 .add('/products', { template: '<h1>Products</h1>' })
                 .add('/about', { template: '<h1>About</h1>' })
                 .add('/contact', { template: '<h1>Contact</h1>' })
-                .otherwise('/')
+                .otherwise('/home')
                 .on('change', this.render);
     
             router.run();
